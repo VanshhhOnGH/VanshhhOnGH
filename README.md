@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 ABOUT ME :
 💬 IT Student who likes to explore in software.<br>🔭 I 'm currently working on Full stack Web-Dev.<br>🌱 I 'm currently learning Software & Technologies.<br>
 
 
