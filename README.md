@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web-Dev.<br>🤝 Exploring Software & Technology.<br>💬 Learning & Growing.<br>
+# 🔭 About Me:
+I’m currently working on Full Stack Web-Dev.<br>Exploring Software & Technology.<br>Learning & Growing.<br>
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=VanshhhOnGH&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VanshhhOnGH&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshhhOnGH&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VanshhhOnGH&theme=onedark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
