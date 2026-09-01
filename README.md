@@ -1,5 +1,5 @@
 # 🔭 About Me:
-I’m currently working on Full Stack Web-Dev.<br>Exploring Software & Technology.<br>Learning & Growing.<br>
+Full Stack Web-Developer.<br>Exploring Software & Technology.<br>Learning & Growing.<br>
 
 
 ## 🌐 Socials:
