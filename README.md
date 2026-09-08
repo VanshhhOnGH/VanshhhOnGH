@@ -1,24 +1,112 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:B45309,100:0F172A&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:9CA3AF,100:1F2937&height=100&section=header" width="100%"/>
 
-<img src="./assets/name.svg" width="420" alt="Ravindra Yadav"/> 
-
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack Developer." />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Vansh%20Kumar&fontSize=36&fontColor=F3F4F6&fontAlignY=55" />
 </p>
 
+<p align="center" style="margin: 18px 6px 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=710&height=90&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+Developer;Learning+%26+Growing" alt="Welcome to my GitHub Profile" />
+</p>
 
+<h3 align="center" style="margin: 32px 4px 12px; font-size: 24px;">
+    Socials:
+</h3>
 
-#  About:
-Full Stack Web-Developer.<br>Exploring Software & Technology.<br>Learning & Growing.<br>
+<p align="center" style="margin: 16px 4px 20px;">
 
+ <a href="https://linkedin.com/in/vansh-kumar-172602255" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:0 5px; padding:2px;" />
+    </a>
 
-##  Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-kumar-172602255) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61557904546483) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vanshkarnnn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/___Vansh) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vanshkumar1818@gmail.com)
+  <a href="https://www.facebook.com/profile.php?id=61557904546483" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" width="30" height="30" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:0 5px; padding:2px;" />
+    </a>
 
-## Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-##  Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+ <a href="https://instagram.com/Vanshkarnnn" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:0 5px; padding:2px;" />
+    </a>
+
+  <a href="https://x.com/___Vansh" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="30" height="30" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:0 5px; padding:2px;" />
+    </a>
+
+ <a href="mailto:vanshkumar1818@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:0 5px; padding:2px;" />
+    </a>
+
+</p>
+
+<br>
+<h3 align="center" style="margin: 28px 4px 12px; font-size: 24px;">
+    Languages and Tools:
+</h3>
+
+<p align="center" style="margin: 16px 4px 32px;">
+
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+ <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+ <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
+    </a>
+
+<br><br>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+ <br> <br>
+
+### Let's Connect:
+
+Open to **internships · full-time roles · freelance projects · collaborations**
+
+<br/>
+
+<sub><i>Learn. Build. Ship.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,50:9CA3AF,100:1F2937&height=100&section=footer" width="100%"/>
+
+</p>
+
+</div>
