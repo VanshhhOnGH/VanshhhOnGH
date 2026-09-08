@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:B45309,100:0F172A&height=100&section=header" width="100%"/>
+
+<img src="./assets/name.svg" width="420" alt="Ravindra Yadav"/> 
+
+<p align='center' style='margin: 16px 4px 8px;'>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack Developer." />
+</p>
+
+
+
 #  About:
 Full Stack Web-Developer.<br>Exploring Software & Technology.<br>Learning & Growing.<br>
 
