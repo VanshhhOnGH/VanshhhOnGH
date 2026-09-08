@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Vansh%20Kumar&fontSize=36&fontColor=F3F4F6&fontAlignY=55" />
 </p>
 
-<p align="center" style="margin: 18px 6px 10px;">
+<p align="center" style="margin: 16px 4px 8px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9CA3AF&center=true&vCenter=true&multiline=true&width=710&height=90&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+Developer;Learning+%26+Growing" alt="Welcome to my GitHub Profile" />
 </p>
 
