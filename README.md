@@ -38,7 +38,6 @@
 
 </p>
 
-<br>
 <h3 align="center" style="margin: 28px 4px 12px; font-size: 24px;">
     Languages and Tools:
 </h3>
@@ -92,7 +91,7 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40" style="background:#ffffff; border-radius:5px; border:1px solid #000000; margin:5px 5px; padding:2px;" />
     </a>
 
-<br><br>
+<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
  <br> <br>
